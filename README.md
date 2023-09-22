@@ -44,6 +44,8 @@ creating Instances
 ### Step 1 - Installing Apache and Updating the Firewall
 Apache is a widely used, open-source web server software that serves web content to users' web browsers. It's known for its flexibility, security features, and scalability, making it a popular choice for hosting websites and web applications.
 
+![image](https://github.com/Bukolaogunwale1/LAMP/assets/122865359/9990b371-2f28-4f5a-9795-f780518be4ec)
+
 > Insalling Apache using Ubuntu's package manager
 
 **`sudo apt update`**
